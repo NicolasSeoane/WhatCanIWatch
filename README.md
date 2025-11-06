@@ -34,12 +34,28 @@ WhatCanIWatch helps you decide what to watch next — combining classic filters 
 
 ## 🧩 Tech Stack
 
-| Technologies |
+ Technologies 
 |---------------|
-| **Frontend** | React · Vite · TailwindCSS · Redux |
-| **Backend** | Node.js · Express · MongoDB · Mongoose · JWT · Google OAuth |
-| **AI Integration** | OpenAI API |
-| **Infrastructure** | Vercel (frontend) · Render (backend) - Atlas DB (database)|
+### 🎬 Frontend
+- **React + Vite**
+- **Tailwind CSS**
+- **Redux**
+- **React Router**
+
+### ⚙️ Backend
+- **Node.js + Express**
+- **MongoDB + Mongoose**
+- **JWT Authentication**
+- **Google OAuth**
+- **TMDB API**
+
+### 🧠 AI Integration
+- **OpenAI API** – Used for the AI movie recommendation feature
+
+### ☁️ Infrastructure
+- **Render** for backend deployment  
+- **Vercel** for frontend deployment  
+- **Atlas DB** for database
 
 ---
 
